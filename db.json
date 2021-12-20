@@ -1,0 +1,45 @@
+{
+    "masterclasses": [
+        {
+            "id": 1,
+            "author": "Arnaud Collery",
+            "hotOffer": true,
+            "type": "Diversity and Inclusion",
+            "title": "Reinvention and resilience",
+            "totalLessons": 7,
+            "duration": 57,
+            "thumbnail": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        {
+            "id": 2,
+            "author": "Samira Djouadi",
+            "hotOffer": false,
+            "type": "Diversity and Inclusion",
+            "title": "Hakuna Matata",
+            "totalLessons": 7,
+            "duration": 57,
+            "thumbnail": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+
+        },
+        {
+            "id": 3,
+            "author": "Samira Djouadi",
+            "hotOffer": false,
+            "type": "Diversity and Inclusion",
+            "title": "Hakuna Matata",
+            "totalLessons": 7,
+            "duration": 57,
+            "thumbnail": "https://images.unsplash.com/photo-1532074205216-d0e1f4b87368?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=741&q=80"
+        },
+        {
+            "id": 4,
+            "author": "Samira Djouadi",
+            "hotOffer": true,
+            "type": "Diversity and Inclusion",
+            "title": "Hakuna Matata",
+            "totalLessons": 7,
+            "duration": 57,
+            "thumbnail": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        }
+    ]
+}
