@@ -1,4 +1,18 @@
 {
+    "tags": [
+        {
+            "id": 1,
+            "title": "Burnout"
+        },
+        {
+            "id": 2,
+            "title": "Presentation and public speaking"
+        },
+        {
+            "id": 3,
+            "title": "Goal setting"
+        }
+    ],
     "masterclasses": [
         {
             "id": 1,
